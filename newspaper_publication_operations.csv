@@ -1,0 +1,237 @@
+edition_id,edition_date,client_name,allocated_to,pages,errors,tickets_raised,processing_time_minutes,status
+ED0001,2025-06-01,The Sun,Kiran,32,1,True,42,Error Resolved
+ED0002,2025-06-02,Daily Mail,Sunil,40,2,True,56,Completed
+ED0003,2025-06-03,NY Times,Rahul,32,1,True,53,Pending
+ED0004,2025-06-04,The Guardian,Amit,34,2,False,42,Pending
+ED0005,2025-06-05,Daily Mail,Rahul,35,2,False,53,Completed
+ED0006,2025-06-06,Daily Mail,Deepak,24,1,False,30,Completed
+ED0007,2025-06-07,Daily Mail,Kiran,24,2,True,55,Error Resolved
+ED0008,2025-06-08,Daily Mail,Sneha,35,1,True,30,Error Resolved
+ED0009,2025-06-09,The Guardian,Sneha,24,3,False,43,Error Resolved
+ED0010,2025-06-10,NY Times,Rahul,36,2,False,39,Completed
+ED0011,2025-06-11,The Times,Rita,22,3,False,44,Completed
+ED0012,2025-06-12,The Times,Sunil,37,2,True,54,Completed
+ED0013,2025-06-13,The Sun,Pooja,37,2,True,45,Completed
+ED0014,2025-06-14,The Sun,Rahul,40,1,True,34,Completed
+ED0015,2025-06-15,NY Times,Rahul,37,3,True,59,Pending
+ED0016,2025-06-16,The Sun,Sneha,38,0,False,60,Completed
+ED0017,2025-06-17,NY Times,Deepak,29,3,True,45,Error Resolved
+ED0018,2025-06-18,The Times,Sneha,34,3,True,57,Completed
+ED0019,2025-06-19,The Guardian,Pooja,29,3,True,33,Completed
+ED0020,2025-06-20,NY Times,Rahul,21,1,False,35,Error Resolved
+ED0021,2025-06-21,NY Times,Rahul,21,3,False,57,Pending
+ED0022,2025-06-22,NY Times,Ravi,23,0,True,41,Completed
+ED0023,2025-06-23,The Sun,Amit,20,3,True,49,Pending
+ED0024,2025-06-24,The Times,Sneha,22,2,False,50,Pending
+ED0025,2025-06-25,The Sun,Anita,33,3,True,45,Error Resolved
+ED0026,2025-06-26,Daily Mail,Deepak,23,3,True,55,Completed
+ED0027,2025-06-27,The Guardian,Deepak,24,2,True,31,Error Resolved
+ED0028,2025-06-28,Daily Mail,Amit,31,3,False,49,Completed
+ED0029,2025-06-29,The Guardian,Amit,40,3,False,48,Error Resolved
+ED0030,2025-06-30,Daily Mail,Deepak,28,3,False,48,Completed
+ED0031,2025-07-01,The Times,Ravi,29,3,False,56,Error Resolved
+ED0032,2025-07-02,The Guardian,Sunil,28,2,False,58,Pending
+ED0033,2025-07-03,Daily Mail,Deepak,20,1,False,50,Pending
+ED0034,2025-07-04,NY Times,Rita,40,1,False,53,Completed
+ED0035,2025-07-05,The Times,Sunil,40,3,True,58,Completed
+ED0036,2025-07-06,The Guardian,Kiran,36,2,False,36,Completed
+ED0037,2025-07-07,NY Times,Deepak,40,0,False,46,Completed
+ED0038,2025-07-08,The Guardian,Rahul,27,0,False,36,Completed
+ED0039,2025-07-09,The Times,Rahul,39,0,True,41,Error Resolved
+ED0040,2025-07-10,NY Times,Pooja,40,0,False,53,Pending
+ED0041,2025-07-11,The Guardian,Amit,38,2,False,57,Completed
+ED0042,2025-07-12,Daily Mail,Anita,20,0,True,40,Error Resolved
+ED0043,2025-07-13,Daily Mail,Sneha,25,2,False,45,Completed
+ED0044,2025-07-14,The Times,Ravi,35,3,True,39,Completed
+ED0045,2025-07-15,Daily Mail,Amit,31,0,False,44,Error Resolved
+ED0046,2025-07-16,The Times,Rita,37,0,False,44,Error Resolved
+ED0047,2025-07-17,NY Times,Pooja,22,3,False,53,Error Resolved
+ED0048,2025-07-18,The Sun,Rita,31,0,False,38,Completed
+ED0049,2025-07-19,The Times,Sneha,40,2,True,44,Completed
+ED0050,2025-07-20,NY Times,Kiran,25,2,False,55,Error Resolved
+ED0051,2025-07-21,The Sun,Anita,40,1,False,48,Error Resolved
+ED0052,2025-07-22,The Sun,Sneha,31,3,True,32,Error Resolved
+ED0053,2025-07-23,The Times,Sneha,35,3,False,54,Error Resolved
+ED0054,2025-07-24,The Sun,Rita,38,3,False,43,Error Resolved
+ED0055,2025-07-25,The Guardian,Ravi,40,3,False,38,Completed
+ED0056,2025-07-26,NY Times,Sunil,36,3,False,49,Error Resolved
+ED0057,2025-07-27,The Guardian,Rahul,39,0,True,32,Error Resolved
+ED0058,2025-07-28,The Guardian,Rita,26,0,True,50,Pending
+ED0059,2025-07-29,The Guardian,Ravi,21,2,True,45,Pending
+ED0060,2025-07-30,NY Times,Deepak,31,3,False,48,Pending
+ED0061,2025-07-31,The Sun,Rahul,32,3,False,42,Error Resolved
+ED0062,2025-08-01,Daily Mail,Amit,31,3,True,59,Pending
+ED0063,2025-08-02,NY Times,Pooja,34,2,True,58,Error Resolved
+ED0064,2025-08-03,The Times,Sneha,37,0,True,40,Error Resolved
+ED0065,2025-08-04,Daily Mail,Pooja,29,3,True,56,Completed
+ED0066,2025-08-05,The Times,Deepak,30,3,False,38,Error Resolved
+ED0067,2025-08-06,Daily Mail,Anita,28,3,False,44,Error Resolved
+ED0068,2025-08-07,The Times,Anita,35,0,False,55,Error Resolved
+ED0069,2025-08-08,The Guardian,Ravi,31,0,False,41,Error Resolved
+ED0070,2025-08-09,The Sun,Anita,37,0,True,53,Completed
+ED0071,2025-08-10,The Sun,Anita,39,1,False,42,Completed
+ED0072,2025-08-11,Daily Mail,Pooja,29,2,False,47,Pending
+ED0073,2025-08-12,The Guardian,Amit,40,3,False,43,Pending
+ED0074,2025-08-13,The Times,Rita,36,1,True,33,Error Resolved
+ED0075,2025-08-14,The Sun,Sneha,30,2,True,36,Completed
+ED0076,2025-08-15,The Times,Sneha,25,2,False,37,Pending
+ED0077,2025-08-16,The Sun,Pooja,29,0,True,49,Pending
+ED0078,2025-08-17,NY Times,Anita,26,1,False,42,Pending
+ED0079,2025-08-18,The Times,Deepak,21,2,False,46,Error Resolved
+ED0080,2025-08-19,The Sun,Amit,27,2,True,40,Pending
+ED0081,2025-08-20,The Times,Rita,39,3,False,55,Pending
+ED0082,2025-08-21,Daily Mail,Rahul,38,1,True,32,Completed
+ED0083,2025-08-22,The Sun,Sunil,32,3,False,47,Pending
+ED0084,2025-08-23,Daily Mail,Amit,28,3,True,53,Completed
+ED0085,2025-08-24,NY Times,Pooja,30,2,False,49,Pending
+ED0086,2025-08-25,The Times,Rahul,27,3,False,36,Pending
+ED0087,2025-08-26,The Guardian,Ravi,33,3,False,31,Completed
+ED0088,2025-08-27,The Guardian,Deepak,20,2,False,59,Pending
+ED0089,2025-08-28,NY Times,Pooja,35,0,True,47,Pending
+ED0090,2025-08-29,The Guardian,Sneha,32,0,True,43,Pending
+ED0091,2025-08-30,NY Times,Rita,30,2,False,47,Completed
+ED0092,2025-08-31,Daily Mail,Amit,27,0,False,39,Error Resolved
+ED0093,2025-09-01,NY Times,Pooja,25,2,True,57,Pending
+ED0094,2025-09-02,The Guardian,Deepak,31,0,True,34,Completed
+ED0095,2025-09-03,The Guardian,Ravi,28,1,False,32,Error Resolved
+ED0096,2025-09-04,NY Times,Deepak,29,2,True,33,Pending
+ED0097,2025-09-05,NY Times,Rita,28,3,False,48,Completed
+ED0098,2025-09-06,The Sun,Kiran,29,3,True,50,Completed
+ED0099,2025-09-07,The Times,Kiran,26,2,True,37,Pending
+ED0100,2025-09-08,The Sun,Kiran,21,2,False,53,Error Resolved
+ED0101,2025-09-09,The Guardian,Amit,37,3,False,56,Pending
+ED0102,2025-09-10,Daily Mail,Kiran,36,0,False,55,Error Resolved
+ED0103,2025-09-11,The Guardian,Rahul,34,3,False,55,Pending
+ED0104,2025-09-12,The Times,Pooja,30,1,True,50,Pending
+ED0105,2025-09-13,Daily Mail,Anita,39,3,False,52,Completed
+ED0106,2025-09-14,NY Times,Rahul,21,2,False,31,Completed
+ED0107,2025-09-15,The Guardian,Kiran,24,1,True,44,Completed
+ED0108,2025-09-16,The Guardian,Sneha,35,2,False,44,Error Resolved
+ED0109,2025-09-17,The Times,Pooja,32,0,False,39,Completed
+ED0110,2025-09-18,The Times,Pooja,38,0,False,58,Completed
+ED0111,2025-09-19,The Guardian,Sunil,40,2,True,51,Completed
+ED0112,2025-09-20,The Sun,Deepak,38,1,False,58,Pending
+ED0113,2025-09-21,The Sun,Rita,27,0,True,36,Completed
+ED0114,2025-09-22,The Sun,Kiran,31,1,True,30,Pending
+ED0115,2025-09-23,The Guardian,Pooja,23,1,False,34,Error Resolved
+ED0116,2025-09-24,The Sun,Deepak,34,0,False,42,Pending
+ED0117,2025-09-25,The Guardian,Pooja,22,0,True,60,Completed
+ED0118,2025-09-26,The Guardian,Rita,21,0,False,56,Pending
+ED0119,2025-09-27,The Guardian,Kiran,23,3,False,49,Error Resolved
+ED0120,2025-09-28,The Guardian,Anita,32,2,False,50,Error Resolved
+ED0121,2025-09-29,Daily Mail,Rahul,38,1,True,36,Completed
+ED0122,2025-09-30,The Times,Kiran,27,1,True,53,Completed
+ED0123,2025-10-01,Daily Mail,Sunil,36,3,True,49,Completed
+ED0124,2025-10-02,The Sun,Pooja,36,3,True,40,Error Resolved
+ED0125,2025-10-03,NY Times,Kiran,40,2,False,48,Pending
+ED0126,2025-10-04,NY Times,Rita,28,2,False,50,Completed
+ED0127,2025-10-05,The Sun,Rita,38,1,True,32,Pending
+ED0128,2025-10-06,The Times,Rita,32,2,True,57,Error Resolved
+ED0129,2025-10-07,The Sun,Kiran,33,0,False,42,Completed
+ED0130,2025-10-08,NY Times,Rahul,27,3,True,60,Pending
+ED0131,2025-10-09,The Guardian,Pooja,31,2,True,42,Error Resolved
+ED0132,2025-10-10,NY Times,Rita,36,3,True,45,Completed
+ED0133,2025-10-11,The Times,Rita,34,0,False,46,Pending
+ED0134,2025-10-12,The Times,Amit,20,2,True,56,Completed
+ED0135,2025-10-13,Daily Mail,Anita,35,1,True,41,Completed
+ED0136,2025-10-14,The Guardian,Deepak,27,1,True,51,Completed
+ED0137,2025-10-15,The Times,Deepak,25,3,False,40,Completed
+ED0138,2025-10-16,Daily Mail,Pooja,37,0,False,56,Completed
+ED0139,2025-10-17,The Times,Amit,26,2,False,44,Completed
+ED0140,2025-10-18,NY Times,Amit,21,3,False,48,Pending
+ED0141,2025-10-19,Daily Mail,Amit,21,3,True,52,Pending
+ED0142,2025-10-20,NY Times,Deepak,25,0,True,46,Pending
+ED0143,2025-10-21,The Times,Rita,35,1,True,51,Error Resolved
+ED0144,2025-10-22,The Guardian,Ravi,34,3,True,34,Pending
+ED0145,2025-10-23,Daily Mail,Anita,39,0,False,46,Error Resolved
+ED0146,2025-10-24,Daily Mail,Amit,23,3,True,30,Completed
+ED0147,2025-10-25,The Times,Rahul,22,1,True,31,Pending
+ED0148,2025-10-26,The Times,Rahul,35,1,False,52,Error Resolved
+ED0149,2025-10-27,The Sun,Sunil,32,3,True,50,Error Resolved
+ED0150,2025-10-28,The Sun,Amit,24,1,False,57,Completed
+ED0151,2025-10-29,The Guardian,Pooja,28,2,True,57,Pending
+ED0152,2025-10-30,NY Times,Rita,26,3,False,54,Pending
+ED0153,2025-10-31,NY Times,Anita,28,3,True,42,Completed
+ED0154,2025-11-01,The Sun,Anita,37,2,True,38,Pending
+ED0155,2025-11-02,The Guardian,Ravi,27,2,False,49,Completed
+ED0156,2025-11-03,The Guardian,Sunil,24,2,False,53,Pending
+ED0157,2025-11-04,NY Times,Amit,35,3,False,56,Completed
+ED0158,2025-11-05,Daily Mail,Sneha,36,1,True,48,Pending
+ED0159,2025-11-06,The Guardian,Sunil,30,0,True,32,Error Resolved
+ED0160,2025-11-07,NY Times,Kiran,40,0,False,37,Pending
+ED0161,2025-11-08,The Times,Pooja,30,2,False,34,Completed
+ED0162,2025-11-09,NY Times,Deepak,38,2,False,30,Error Resolved
+ED0163,2025-11-10,Daily Mail,Anita,31,2,True,52,Error Resolved
+ED0164,2025-11-11,Daily Mail,Sneha,37,1,True,44,Completed
+ED0165,2025-11-12,The Guardian,Ravi,31,1,False,30,Error Resolved
+ED0166,2025-11-13,NY Times,Sunil,27,0,True,57,Pending
+ED0167,2025-11-14,The Sun,Pooja,24,3,True,31,Completed
+ED0168,2025-11-15,NY Times,Rahul,37,2,False,42,Pending
+ED0169,2025-11-16,The Sun,Sneha,38,2,True,32,Pending
+ED0170,2025-11-17,The Times,Sunil,23,2,False,34,Pending
+ED0171,2025-11-18,Daily Mail,Kiran,26,0,True,33,Pending
+ED0172,2025-11-19,Daily Mail,Pooja,23,1,True,46,Pending
+ED0173,2025-11-20,Daily Mail,Sneha,32,0,False,47,Pending
+ED0174,2025-11-21,The Sun,Rahul,30,2,False,59,Error Resolved
+ED0175,2025-11-22,The Guardian,Rita,22,3,False,30,Error Resolved
+ED0176,2025-11-23,The Times,Ravi,21,2,True,48,Completed
+ED0177,2025-11-24,The Times,Sunil,25,3,True,55,Pending
+ED0178,2025-11-25,NY Times,Sunil,24,1,True,43,Pending
+ED0179,2025-11-26,The Sun,Anita,35,3,False,38,Error Resolved
+ED0180,2025-11-27,The Times,Ravi,36,2,True,53,Error Resolved
+ED0181,2025-11-28,NY Times,Rita,21,3,False,60,Completed
+ED0182,2025-11-29,The Sun,Sunil,25,1,True,50,Completed
+ED0183,2025-11-30,The Guardian,Ravi,36,2,True,53,Pending
+ED0184,2025-12-01,The Times,Sneha,34,1,True,43,Completed
+ED0185,2025-12-02,The Sun,Rahul,22,1,True,34,Pending
+ED0186,2025-12-03,The Guardian,Rita,26,3,False,37,Pending
+ED0187,2025-12-04,The Sun,Sneha,27,1,True,34,Completed
+ED0188,2025-12-05,The Guardian,Deepak,20,1,True,40,Error Resolved
+ED0189,2025-12-06,The Sun,Sunil,25,2,False,33,Pending
+ED0190,2025-12-07,The Times,Deepak,26,3,False,55,Pending
+ED0191,2025-12-08,NY Times,Kiran,21,2,False,39,Pending
+ED0192,2025-12-09,NY Times,Ravi,28,2,True,58,Error Resolved
+ED0193,2025-12-10,The Times,Sunil,31,0,True,41,Pending
+ED0194,2025-12-11,Daily Mail,Amit,38,2,True,41,Error Resolved
+ED0195,2025-12-12,NY Times,Anita,29,1,False,46,Completed
+ED0196,2025-12-13,The Sun,Rita,29,3,False,39,Completed
+ED0197,2025-12-14,The Guardian,Rita,34,0,True,45,Pending
+ED0198,2025-12-15,The Times,Amit,25,1,False,37,Pending
+ED0199,2025-12-16,Daily Mail,Sunil,28,3,False,54,Pending
+ED0200,2025-12-17,The Times,Anita,31,1,False,35,Completed
+ED0201,2025-12-18,The Sun,Anita,31,0,True,58,Error Resolved
+ED0202,2025-12-19,The Sun,Ravi,25,2,True,37,Error Resolved
+ED0203,2025-12-20,The Times,Ravi,36,0,False,58,Completed
+ED0204,2025-12-21,The Guardian,Rita,34,3,False,51,Pending
+ED0205,2025-12-22,Daily Mail,Kiran,37,3,False,52,Pending
+ED0206,2025-12-23,The Sun,Amit,24,3,False,38,Pending
+ED0207,2025-12-24,Daily Mail,Anita,22,2,True,51,Error Resolved
+ED0208,2025-12-25,The Times,Amit,31,1,False,54,Completed
+ED0209,2025-12-26,NY Times,Sunil,33,1,True,38,Pending
+ED0210,2025-12-27,NY Times,Pooja,32,3,True,55,Pending
+ED0211,2025-12-28,The Times,Rita,20,1,False,39,Pending
+ED0212,2025-12-29,The Guardian,Amit,24,0,True,55,Completed
+ED0213,2025-12-30,NY Times,Sneha,22,3,False,43,Pending
+ED0214,2025-12-31,The Sun,Deepak,25,1,True,45,Pending
+ED0215,2026-01-01,The Times,Rahul,38,3,True,42,Error Resolved
+ED0216,2026-01-02,NY Times,Anita,20,3,False,49,Completed
+ED0217,2026-01-03,The Times,Deepak,38,3,False,47,Completed
+ED0218,2026-01-04,The Times,Pooja,34,2,False,33,Error Resolved
+ED0219,2026-01-05,The Guardian,Rita,29,0,False,53,Error Resolved
+ED0220,2026-01-06,The Guardian,Deepak,21,0,True,59,Pending
+ED0221,2026-01-07,The Times,Pooja,28,1,False,34,Pending
+ED0222,2026-01-08,The Sun,Kiran,20,1,False,44,Error Resolved
+ED0223,2026-01-09,The Sun,Rita,30,3,True,60,Completed
+ED0224,2026-01-10,The Times,Amit,24,3,True,52,Error Resolved
+ED0225,2026-01-11,The Sun,Anita,20,1,True,31,Pending
+ED0226,2026-01-12,NY Times,Rita,31,3,False,40,Error Resolved
+ED0227,2026-01-13,The Sun,Rita,37,0,False,37,Completed
+ED0228,2026-01-14,The Sun,Rahul,37,1,False,50,Completed
+ED0229,2026-01-15,Daily Mail,Sunil,23,0,True,54,Error Resolved
+ED0230,2026-01-16,The Guardian,Rita,34,3,False,38,Completed
+ED0231,2026-01-17,Daily Mail,Deepak,27,1,False,41,Pending
+ED0232,2026-01-18,Daily Mail,Rahul,28,2,True,30,Pending
+ED0233,2026-01-19,The Sun,Ravi,27,0,True,37,Pending
+ED0234,2026-01-20,The Sun,Rahul,38,3,False,44,Error Resolved
+ED0235,2026-01-21,NY Times,Rahul,32,2,False,37,Error Resolved
+ED0236,2026-01-22,NY Times,Pooja,25,0,False,56,Pending
